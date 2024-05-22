@@ -5,9 +5,9 @@
 </a>
 
 ## About Me
- * I'm an undergraduate Computer Science student.
- * In my free time I build computers and dabble with programming projects.
- * I’m currently working on a project involving a MariaDB and a JAVA frontend. The project is still very early in development but once it's in a usable state I'll be publishing the repository.
+ * 🎓 Pursuing an undergraduate Computer Science degree.
+ * 📖 In my free time I build computers and dabble with programming projects.
+ * 💻 I’m currently working on a project involving a MariaDB and a JAVA frontend. The project is still very early in development but once it's in a usable state I'll be publishing the repository.
 
 ## My GitHub Stats
 
