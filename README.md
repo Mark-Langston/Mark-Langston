@@ -5,4 +5,4 @@
 </a>
 
 
- 🔭 I’m currently working on a project involving a Maria DB and JAVA frontend. The project is still very early in development but once it's in a usable state I'll be publishing the repository.
+ 🔭 I’m currently working on a project involving a MariaDB and JAVA frontend. The project is still very early in development but once it's in a usable state I'll be publishing the repository.
