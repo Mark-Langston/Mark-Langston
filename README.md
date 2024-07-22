@@ -7,7 +7,7 @@
 ## About Me
  * 🎓 Pursuing an undergraduate Computer Science degree.
  * 📖 In my free time I build computers and dabble with programming projects.
- * 💻 I’m currently working on a project involving a MariaDB and a JAVA frontend. The project is early in development, once it's in a usable state I'll be publishing the repository.
+ * 💻 I’m currently working on a project involving a Postgres Database and JavaFX Front-end that can be found [here](https://github.com/Mark-Langston/MarksComputerBuilds). The front-end is able to connect to the local Postgres database, my next step is to re-create a remote copy of the database and establish the remote connection with the Java application.
 
 ## My GitHub Stats
 
