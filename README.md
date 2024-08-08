@@ -11,7 +11,7 @@
 
 ## My Skills
 
-[![MySkills](https://skillicons.dev/icons?i=idea,clion,vscode,eclipse,html,css,wordpress,github,postman,anaconda,powershell,bash,linux,redhat,debian,discord,ps,blender,gamemakerstudio,godot,unity,unreal,cs,dotnet,cpp,java,maven,py,postgres,sqlite)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=idea,clion,vscode,eclipse,anaconda,html,css,wordpress,github,postman,powershell,bash,linux,redhat,debian,discord,ps,blender,gamemakerstudio,godot,unity,unreal,cs,dotnet,cpp,java,maven,py,postgres,sqlite)](https://skillicons.dev)
 
 ## My GitHub Stats
 
