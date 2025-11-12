@@ -7,7 +7,7 @@
 ## About Me
  * 🎓 Pursuing an undergraduate Computer Science degree.
  * 📖 In my free time I build computers and dabble with programming projects.
- * 💻 I’m currently working on a project involving a Postgres Database and JavaFX Front-end that can be found [here](https://github.com/Mark-Langston/Marks_Computer_Builds_Remote). The front-end is able to connect to a remote Postgres database, I've used both Render and AWS RDS for my initial testing. Making my tables public was a big lesson learned. For now, I'll be slowly developing out this project while I wait for my next big inspiration.
+ * 💻 I’m currently working on a project involving a Postgres Database and JavaFX Front-end that can be found [here](https://github.com/Mark-Langston/Marks_Computer_Builds_Remote).
 
 ## My GitHub Stats
 
