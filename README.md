@@ -9,10 +9,6 @@
  * 📖 In my free time I build computers and dabble with programming projects.
  * 💻 I’m currently working on a project involving a Postgres Database and JavaFX Front-end that can be found [here](https://github.com/Mark-Langston/Marks_Computer_Builds_Remote). The front-end is able to connect to a remote Postgres database, I've used both Render and AWS RDS for my initial testing. Making my tables public was a big lesson learned. For now, I'll be slowly developing out this project while I wait for my next big inspiration.
 
-## My Skills
-
-[![MySkills](https://skillicons.dev/icons?i=idea,clion,vscode,eclipse,anaconda,html,css,wordpress,github,postman,powershell,bash,linux,redhat,debian,discord,ps,blender,gamemakerstudio,godot,unity,unreal,cs,dotnet,cpp,java,maven,py,postgres,sqlite)](https://skillicons.dev)
-
 ## My GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mark-Langston&theme=dracula)
