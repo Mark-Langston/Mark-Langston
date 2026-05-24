@@ -5,9 +5,8 @@
 </a>
 
 ## About Me
- * 🎓 Pursuing an undergraduate Computer Science degree.
+ * 🎓 Completed an undergraduate Computer Science degree.
  * 📖 In my free time I build computers and dabble with programming projects.
- * 💻 I’m currently working on a project involving a Postgres Database and JavaFX Front-end that can be found [here](https://github.com/Mark-Langston/Marks_Computer_Builds_Remote).
 
 ## My GitHub Stats
 
